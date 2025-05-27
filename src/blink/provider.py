@@ -142,7 +142,7 @@ class BlinkProvider(ScryptedDeviceBase, DeviceProvider, Settings):
                 "interfaces": [
                     ScryptedInterface.Camera.value,
                     ScryptedInterface.VideoCamera.value,
-                    ScryptedInterface.MotionSensor.value,
+                    #ScryptedInterface.MotionSensor.value,
                 ],
             }
             devices.append(manifest)
