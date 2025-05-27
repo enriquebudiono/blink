@@ -1,6 +1,6 @@
 {
    "name": "@scrypted/blink",
-   "version": "0.0.0",
+   "version": "0.0.1",
    "description": "Blink Plugin for Scrypted",
    "license": "Apache",
    "repository": {
