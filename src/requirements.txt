@@ -1,0 +1,3 @@
+https://github.com/mback2k/blinkpy/archive/4b1caa18fc1ebc1fd255866a32165610c13b44c1.tar.gz
+--extra-index-url=https://bjia56.github.io/armv7l-wheels/
+--prefer-binary

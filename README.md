@@ -1,0 +1,1 @@
+# Blink Plugin for Scrypted
